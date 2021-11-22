@@ -1,1 +1,1 @@
-Hi, my name is Jimmie, and I am learning how to code. 
+Deveoper focusing och web technology.
