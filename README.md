@@ -1,1 +1,1 @@
-Deveoper focusing och web technology.
+Software developer focusing on web technologies.
